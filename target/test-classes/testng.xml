@@ -1,0 +1,9 @@
+<suite name="TestSuite">
+  <test name="Saucedemo Test">
+    <parameter name="username" value="standard_user"/>
+    <parameter name="password" value="secret_sauce"/>
+    <classes>
+      <class name="saucedemo.test.SaucedemoTest"/>
+    </classes>
+  </test>
+</suite>

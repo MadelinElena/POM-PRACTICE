@@ -1,0 +1,8 @@
+saucedemo\pages\ProductsPage.class
+saucedemo\test\SaucedemoTest.class
+saucedemo\base\BaseTest.class
+saucedemo\pages\CheckoutInformationPage.class
+saucedemo\pages\LoginPage.class
+saucedemo\pages\CartPage.class
+saucedemo\pages\CheckoutPage.class
+saucedemo\pages\ThankYouPage.class
